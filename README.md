@@ -84,10 +84,13 @@ static class Education {
 </p>
 
 ## 🚀 Deployment & Cloud
-![Streamlit](https://img.shields.io/badge/STREAMLIT-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Vercel](https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/RENDER-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GITHUB_PAGES-222222?style=for-the-badge&logo=github-pages&logoColor=white)
+<p align="center">
+  <!-- Clean Service Name Badges Only -->
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=000000" />
+  <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ---
 <body class="p-4 md:p-8">
