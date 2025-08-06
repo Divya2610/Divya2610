@@ -1,7 +1,7 @@
 
 <p align="center"><em>
 "I open my code editor with confidence, then spend the next 3 hours wondering what past-me was <br/>
-thinking. Eventually, magic happens... or a bug does." </em>br>
+thinking. Eventually, magic happens... or a bug does." </em><br>
 – Classic Developer Survival Strategy
 </em></p>
 
