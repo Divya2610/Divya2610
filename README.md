@@ -11,7 +11,7 @@ public class divya {
     String name = "Divya Khanolkar";
     String role = "Computer Science Student";
     
-    static class Education {
+static class Education {
         String current = "BTech Computer - KJ Somaiya School of Engineering (4th Year)";
         String previous = "Diploma IT - Vidyalankar Polytechnic";
     }
