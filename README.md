@@ -25,9 +25,9 @@
 <h3 align="left">👩‍💻  About Me</h3>
 ```java
 public class Divya {
-    String name = "Divya Khanolkar";
-    String role = "Computer Science Student";
-    static class Education {
+    String name = "Divya Khanolkar";<br>
+    String role = "Computer Science Student";<br>
+    static class Education {<br>
         String current = "BTech Computer - KJ Somaiya School of Engineering (4th Year)";
         String previous = "Diploma IT - Vidyalankar Polytechnic";
     }
