@@ -89,8 +89,6 @@ static class Education {
 ![GitHub Pages](https://img.shields.io/badge/GITHUB_PAGES-222222?style=for-the-badge&logo=github-pages&logoColor=white)
 
 ---
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=divya2610&show_icons=true&locale=en&layout=compact" alt="divya2610" /></p>
 <body class="p-4 md:p-8">
     <!-- Main container for the section -->
     <div class="bg-gray-800 text-white p-6 rounded-xl shadow-lg max-w-2xl mx-auto">
