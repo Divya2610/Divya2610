@@ -5,7 +5,20 @@
 </div>
 
 <h3 align="left">👩‍💻  About Me</h3>
-const atharva = { name: "Atharva Sawant", role: "AI & Data Science Student", education: { current: "BTech AI&DS - SIES GST (4th Year)", previous: "Diploma IT - Vidyalankar Polytechnic" }, location: "Mumbai, India", passions: ["Learning", "Technology", "Innovation"], goal: "To go far in the tech world! ✨💫", motto: "Embrace the learning adventure!" };
+```java
+public class divya {
+    String name = "Divya Khanolkar";
+    String role = "Computer Science Student";
+    static class Education {
+        String current = "BTech Computer - KJ Somaiya School of Engineering (4th Year)";
+        String previous = "Diploma IT - Vidyalankar Polytechnic";
+    }
+    String location = "Mumbai, India";
+    String[] passions = {"Learning", "Technology", "Innovation"};
+    String goal = "To go far in the tech world! 🚀";
+    String motto = "Embrace the learning adventure!";
+}
+"""
 
 
 <h3 align="left">🛠 Language and tools</h3>
