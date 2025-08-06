@@ -132,9 +132,15 @@ static class Education {
 - 💻 Love turning ideas into reality through code  
 
 ---
-
-
-
 </div>
+
+---
+
+<div align="center"> 
+Thanks for visiting! Let's connect and build something amazing together! 🚀
+  <img src="https://komarev.com/ghpvc/?username=Divya2610&color=brightgreen&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+</div>
+
+---
 
 ###
