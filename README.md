@@ -23,19 +23,18 @@
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
-## 🔥 About Me
-```javascript
+## 👨‍💻 About Me
 const atharva = {
-   name: "Atharva Sawant",
-   role: "AI & Data Science Student",
-   education: {
-       current: "BTech AI&DS - SIES GST (4th Year)",
-       previous: "Diploma IT - Vidyalankar Polytechnic"
-   },
-   location: "Mumbai, India",
-   passions: ["Learning", "Technology", "Innovation"],
-   goal: "To go far in the tech world! 🌟",
-   motto: "Embrace the learning adventure!"
+name: "Atharva Sawant",
+role: "AI & Data Science Student",
+education: {
+current: "BTech AI&DS - SIES GST (4th Year)",
+previous: "Diploma IT - Vidyalankar Polytechnic"
+},
+location: "Mumbai, India",
+passions: ["Learning", "Technology", "Innovation"],
+goal: "To go far in the tech world! 🌟",
+motto: "Embrace the learning adventure!"
 };
 
 <h3 align="left">🛠 Language and tools</h3>
