@@ -112,17 +112,7 @@ public class divya {
     </div>
 
 ---
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=divya2610&show_icons=true&locale=en&layout=compact" alt="divya2610" /></p>
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=divya2610&show_icons=true&locale=en&layout=compact" alt="divya2610" /></p
 <div align="center">
 
 <a href="https://github.com/Divya2610">
