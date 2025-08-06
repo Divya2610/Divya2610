@@ -119,10 +119,6 @@ public class divya {
   <img src="https://github-readme-stats.vercel.app/api?username=Divya2610&show_icons=true&theme=dark&count_private=true&hide=contribs&hide_title=false" height="180"/>
 </a>
 
-<a href="https://github.com/Divya2610">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divya2610&layout=compact&langs_count=10&theme=dark" height="180"/>
-</a>
-
 </div>
 
 ###
