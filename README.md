@@ -4,7 +4,6 @@
 Classic Developer Survival Strategy</i></p>
 </div>
 ---
-
 <h3 align="left">👩‍💻 About Me</h3>
 public class divya {
     String name = &quot;Divya Khanolkar&quot;;
