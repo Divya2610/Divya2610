@@ -79,10 +79,10 @@ static class Education {
 ![Jupyter](https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Notebook](https://img.shields.io/badge/NOTEBOOK-FF8C00?style=for-the-badge&logo=jupyter&logoColor=white)
 
-## 🚀 Deployment & Cloud
 ![Suit Up](https://img.shields.io/badge/SUIT_UP-FFD700?style=for-the-badge&logo=superman&logoColor=black)
 ![It's Time for Deployment](https://img.shields.io/badge/IT'S_TIME_FOR_DEPLOYMENT-FF4500?style=for-the-badge&logo=rocket&logoColor=white)
 
+## 🚀 Deployment & Cloud
 ![Streamlit](https://img.shields.io/badge/STREAMLIT-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Vercel](https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/RENDER-46E3B7?style=for-the-badge&logo=render&logoColor=white)
