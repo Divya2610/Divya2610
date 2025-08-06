@@ -113,11 +113,9 @@ public class divya {
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=divya2610&show_icons=true&locale=en&layout=compact" alt="divya2610" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=divya2610&show_icons=true&locale=en&layout=compact&theme=dark" alt="divya2610" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divya2610&show_icons=true&locale=en" alt="divya2610" /></p>
-
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divya2610&show_icons=true&locale=en&theme=dark" alt="divya2610" /></p>
 
 
 
