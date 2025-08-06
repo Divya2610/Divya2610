@@ -1,8 +1,9 @@
 
-<div align="center">
-<p><i>"I open my code editor with confidence, then spend the next 3 hours wondering what past-me was thinking. Eventually, magic happens... or a bug does."<br>
-Classic Developer Survival Strategy</i></p>
-</div>
+<p align="center"><em>
+"I open my code editor with confidence, then spend the next 3 hours wondering what past-me was <br/>
+thinking. Eventually, magic happens... or a bug does."  
+– Classic Developer Survival Strategy
+</em></p>
 
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> About Me
