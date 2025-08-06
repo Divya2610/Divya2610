@@ -116,7 +116,13 @@ const atharva = {
 
 ---
 
+## 🎵 Current Soundtrack
 
+<div align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fdcavvejfkunwaz4h34rttpugq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=00d4ff&bar_color_cover=true" width="400" />
+</div>
+
+---
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=divya2610&show_icons=true&locale=en&layout=compact&theme=dark" alt="divya2610" /></p>
