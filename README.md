@@ -3,21 +3,23 @@
 <p><i>"I open my code editor with confidence, then spend the next 3 hours wondering what past-me was thinking. Eventually, magic happens... or a bug does."<br>
 Classic Developer Survival Strategy</i></p>
 </div>
-
-
-<h3 align="left">👩‍💻 About Me</h3>
-public class divya {
-    String name = &quot;Divya Khanolkar&quot;;
-    String role = &quot;Computer Science Student&quot;;
-    static class Education {
-        String current = &quot;BTech Computer - KJ Somaiya School of Engineering (4th Year)&quot;;
-        String previous = &quot;Diploma IT - Vidyalankar Polytechnic&quot;;
-    }
-    String location = &quot;Mumbai, India&quot;;
-    String[] passions = {&quot;Learning&quot;, &quot;Technology&quot;, &quot;Innovation&quot;};
-    String goal = &quot;To go far in the tech world! 🚀&quot;;
-    String motto = &quot;Embrace the learning adventure!&quot;;
-}
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> About Me
+```javascript
+const atharva = {
+    name: "Atharva Sawant",
+    role: "AI & Data Science Student",
+    education: {
+        current: "BTech AI&DS - SIES GST (4th Year)",
+        previous: "Diploma IT - Vidyalankar Polytechnic"
+    },
+    location: "Mumbai, India",
+    passions: ["Learning", "Technology", "Innovation"],
+    goal: "To go far in the tech world! 🌟",
+    motto: "Embrace the learning adventure!"
+};
+```
+<br>
+---
 
 
 
