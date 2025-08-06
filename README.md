@@ -1,4 +1,4 @@
----
+
 <div align="center">
 <p><i>"I open my code editor with confidence, then spend the next 3 hours wondering what past-me was thinking. Eventually, magic happens... or a bug does."<br>
 Classic Developer Survival Strategy</i></p>
