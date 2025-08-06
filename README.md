@@ -83,17 +83,6 @@ public class divya {
 
 ---
 <div>
-<title>What I'm Currently Working On</title>
-    <!-- Tailwind CSS CDN for modern styling -->
-    <script src="https://cdn.tailwindcss.com"></script>
-    <style>
-        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
-        body {
-            font-family: 'Inter', sans-serif;
-            background-color: #0d1117; /* GitHub dark mode background */
-        }
-    </style>
-</head>
 <body class="p-4 md:p-8">
     <!-- Main container for the section -->
     <div class="bg-gray-800 text-white p-6 rounded-xl shadow-lg max-w-2xl mx-auto">
