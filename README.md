@@ -23,19 +23,20 @@
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
-```java<br>
-public class Divya {
-    String name = "Divya Khanolkar";<br>
-    String role = "Computer Science Student";<br>
-    static class Education {<br>
-        String current = "BTech Computer - KJ Somaiya School of Engineering (4th Year)";<br>
-        String previous = "Diploma IT - Vidyalankar Polytechnic";<br>
-    }<br>
-    String location = "Andheri, India";<br>
-    String[] passions = {"Learning", "Technology", "Innovation"};<br>
-    String goal = "To go far in the tech world! 🚀";<br>
-    String motto = "Embrace the learning adventure!";<br>
-}<br>
+## 🔥 About Me
+```javascript
+const atharva = {
+   name: "Atharva Sawant",
+   role: "AI & Data Science Student",
+   education: {
+       current: "BTech AI&DS - SIES GST (4th Year)",
+       previous: "Diploma IT - Vidyalankar Polytechnic"
+   },
+   location: "Mumbai, India",
+   passions: ["Learning", "Technology", "Innovation"],
+   goal: "To go far in the tech world! 🌟",
+   motto: "Embrace the learning adventure!"
+};
 
 <h3 align="left">🛠 Language and tools</h3>
 
