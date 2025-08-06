@@ -79,8 +79,9 @@ static class Education {
 ![Jupyter](https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Notebook](https://img.shields.io/badge/NOTEBOOK-FF8C00?style=for-the-badge&logo=jupyter&logoColor=white)
 
-![Suit Up](https://img.shields.io/badge/SUIT_UP-FFD700?style=for-the-badge&logo=superman&logoColor=black)
-![It's Time for Deployment](https://img.shields.io/badge/IT'S_TIME_FOR_DEPLOYMENT-FF4500?style=for-the-badge&logo=rocket&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/🕴️_Suit_up-It’s_time_for_deployment-000000?style=for-the-badge&labelColor=1F1F1F" title="Barney would be proud.">
+</p>
 
 ## 🚀 Deployment & Cloud
 ![Streamlit](https://img.shields.io/badge/STREAMLIT-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
