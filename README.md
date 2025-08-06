@@ -82,6 +82,46 @@ public class divya {
 ![GitHub Pages](https://img.shields.io/badge/GITHUB_PAGES-222222?style=for-the-badge&logo=github-pages&logoColor=white)
 
 ---
+<div>
+<title>What I'm Currently Working On</title>
+    <!-- Tailwind CSS CDN for modern styling -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #0d1117; /* GitHub dark mode background */
+        }
+    </style>
+</head>
+<body class="p-4 md:p-8">
+    <!-- Main container for the section -->
+    <div class="bg-gray-800 text-white p-6 rounded-xl shadow-lg max-w-2xl mx-auto">
+        <!-- Section Heading -->
+        <h3 class="text-2xl font-bold mb-4">
+            What I'm Currently Working On
+        </h3>
+        <!-- Unordered List for the bullet points -->
+        <ul class="list-none space-y-3 p-0">
+            <li class="flex items-start text-lg">
+                <span class="mr-3 text-2xl">🔭</span>
+                <span>Building AI/ML projects for real-world impact</span>
+            </li>
+            <li class="flex items-start text-lg">
+                <span class="mr-3 text-2xl">🌱</span>
+                <span>Exploring advanced Data Science techniques</span>
+            </li>
+            <li class="flex items-start text-lg">
+                <span class="mr-3 text-2xl">👯</span>
+                <span>Looking to collaborate on innovative tech solutions</span>
+            </li>
+            <li class="flex items-start text-lg">
+                <span class="mr-3 text-2xl">💡</span>
+                <span>Always open to learning new technologies</span>
+            </li>
+        </ul>
+    </div>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=divya2610&show_icons=true&locale=en&layout=compact" alt="divya2610" /></p>
 
