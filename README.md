@@ -1,5 +1,7 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+   <p><i>"I open my code editor with confidence, then spend the next 3 hours wondering what past-me was thinking. Eventually, magic happens... or a bug does."<br>  
+     Classic Developer Survival Strategy
+<i></p>
 </div>
 
 ###
@@ -7,9 +9,7 @@
 ###
 
 <div align="center">
-  <p>*"I open my code editor with confidence, then spend the next 3 hours wondering what past-me was thinking. Eventually, magic happens... or a bug does."*  
-     **Classic Developer Survival Strategy**
-</p>
+ 
 </div>
 
 <h3 align="left">👩‍💻  About Me</h3>
