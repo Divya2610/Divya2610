@@ -12,7 +12,9 @@ const atharva = {
     goal: "To go far in the tech world! 🌟",
     motto: "Embrace the learning adventure!"
 };
-```<br>---
+```
+<br>
+---
 
 
 
