@@ -23,19 +23,19 @@
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
-```java
+```java<br>
 public class Divya {
     String name = "Divya Khanolkar";<br>
     String role = "Computer Science Student";<br>
     static class Education {<br>
-        String current = "BTech Computer - KJ Somaiya School of Engineering (4th Year)";
-        String previous = "Diploma IT - Vidyalankar Polytechnic";
-    }
-    String location = "Mumbai, India";
-    String[] passions = {"Learning", "Technology", "Innovation"};
-    String goal = "To go far in the tech world! 🚀";
-    String motto = "Embrace the learning adventure!";
-}
+        String current = "BTech Computer - KJ Somaiya School of Engineering (4th Year)";<br>
+        String previous = "Diploma IT - Vidyalankar Polytechnic";<br>
+    }<br>
+    String location = "Andheri, India";<br>
+    String[] passions = {"Learning", "Technology", "Innovation"};<br>
+    String goal = "To go far in the tech world! 🚀";<br>
+    String motto = "Embrace the learning adventure!";<br>
+}<br>
 
 <h3 align="left">🛠 Language and tools</h3>
 
