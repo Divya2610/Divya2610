@@ -23,12 +23,19 @@
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
-
-###
+```java
+public class Divya {
+    String name = "Divya Khanolkar";
+    String role = "Computer Science Student";
+    static class Education {
+        String current = "BTech Computer - KJ Somaiya School of Engineering (4th Year)";
+        String previous = "Diploma IT - Vidyalankar Polytechnic";
+    }
+    String location = "Mumbai, India";
+    String[] passions = {"Learning", "Technology", "Innovation"};
+    String goal = "To go far in the tech world! 🚀";
+    String motto = "Embrace the learning adventure!";
+}
 
 <h3 align="left">🛠 Language and tools</h3>
 
