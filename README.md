@@ -28,8 +28,9 @@ static class Education {
  
 ---
 
-<h3 align="left">🛠 Language and tools</h3>
-# 🧠 Technologies I Work With
+### 🧠 Technologies I Work With
+
+#### 👩‍💻 Core Languages
 
 ## 👨‍💻 Core Languages
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
