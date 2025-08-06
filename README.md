@@ -4,21 +4,20 @@
 <i></p>
 </div>
 
-<h3 align="left">👩‍💻  About Me</h3>
-```java
+<h3 align="left">👩‍💻 About Me</h3>
 public class divya {
-    String name = "Divya Khanolkar";
-    String role = "Computer Science Student";
+    String name = &quot;Divya Khanolkar&quot;;
+    String role = &quot;Computer Science Student&quot;;
     static class Education {
-        String current = "BTech Computer - KJ Somaiya School of Engineering (4th Year)";
-        String previous = "Diploma IT - Vidyalankar Polytechnic";
+        String current = &quot;BTech Computer - KJ Somaiya School of Engineering (4th Year)&quot;;
+        String previous = &quot;Diploma IT - Vidyalankar Polytechnic&quot;;
     }
-    String location = "Mumbai, India";
-    String[] passions = {"Learning", "Technology", "Innovation"};
-    String goal = "To go far in the tech world! 🚀";
-    String motto = "Embrace the learning adventure!";
+    String location = &quot;Mumbai, India&quot;;
+    String[] passions = {&quot;Learning&quot;, &quot;Technology&quot;, &quot;Innovation&quot;};
+    String goal = &quot;To go far in the tech world! 🚀&quot;;
+    String motto = &quot;Embrace the learning adventure!&quot;;
 }
-"""
+
 
 
 <h3 align="left">🛠 Language and tools</h3>
