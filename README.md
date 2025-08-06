@@ -90,13 +90,6 @@ static class Education {
 ![GitHub Pages](https://img.shields.io/badge/GITHUB_PAGES-222222?style=for-the-badge&logo=github-pages&logoColor=white)
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarshithaShetty27/HarshithaShetty27/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HarshithaShetty27/HarshithaShetty27/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/HarshithaShetty27/HarshithaShetty27/output/github-snake.svg" />
-</picture>
-
-
 <body class="p-4 md:p-8">
     <!-- Main container for the section -->
     <div class="bg-gray-800 text-white p-6 rounded-xl shadow-lg max-w-2xl mx-auto">
@@ -126,6 +119,11 @@ static class Education {
     </div>
 
 ---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarshithaShetty27/HarshithaShetty27/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HarshithaShetty27/HarshithaShetty27/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/HarshithaShetty27/HarshithaShetty27/output/github-snake.svg" />
+</picture>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=divya2610&show_icons=true&locale=en&layout=compact&theme=dark" alt="divya2610" /></p>
 
